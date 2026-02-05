@@ -1,10 +1,12 @@
 # Python – Estudos Iniciais
 
-Esta pasta será utilizada para meus primeiros exercícios em Python voltados à análise de dados.
+Esta pasta contém meus primeiros scripts em Python voltados à análise de dados.
 
-O foco aqui será:
-- lógica básica
-- leitura de dados simples
-- prática de raciocínio
+## Arquivos
+- `hello_dados.py`  
+  Script simples de apresentação, utilizando variáveis e impressão de texto.
 
-Conteúdo de nível iniciante, desenvolvido durante meus estudos.
+- `soma_vendas.py`  
+  Script básico utilizando lista de valores e soma de dados.
+
+Todos os arquivos têm foco em aprendizado e prática de lógica básica.
